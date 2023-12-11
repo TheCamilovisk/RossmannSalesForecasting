@@ -84,11 +84,11 @@ The following forecasting methodologies were explored:
 5. **XGBoost Multi-Store Model:** An extension of the XGBoost model to forecast sales across multiple stores by incorporating store-specific features.
 
 Each notebook in the repository corresponds to a different stage of the project:
-- `00 - EDA.ipynb`: Exploratory Data Analysis
-- `01 - ARIMA_model.ipynb`: SARIMAX Model Implementation
-- `02 - Prophet_model.ipynb`: Prophet Model Implementation
-- `03.1 - XGBoost_model.ipynb`: XGBoost Single-Store Model
-- `03.2 - XGBoost_multi_store_model.ipynb`: XGBoost Multi-Store Model
+- [`00 - EDA.ipynb`](https://github.com/TheCamilovisk/RossmannSalesForecasting/blob/9b67db7c1485dee551f0799ae85ddac1a70d502d/00%20-%20EDA.ipynb): Exploratory Data Analysis
+- [`01 - ARIMA_model.ipynb`](https://github.com/TheCamilovisk/RossmannSalesForecasting/blob/9b67db7c1485dee551f0799ae85ddac1a70d502d/01%20-%20ARIMA_model.ipynb): SARIMAX Model Implementation
+- [`02 - Prophet_model.ipynb`](https://github.com/TheCamilovisk/RossmannSalesForecasting/blob/9b67db7c1485dee551f0799ae85ddac1a70d502d/02%20-%20Prophet_model.ipynb): Prophet Model Implementation
+- [`03.1 - XGBoost_model.ipynb`](https://github.com/TheCamilovisk/RossmannSalesForecasting/blob/9b67db7c1485dee551f0799ae85ddac1a70d502d/03.1%20-%20XGBoost_model.ipynb): XGBoost Single-Store Model
+- [`03.2 - XGBoost_multi_store_model.ipynb`](https://github.com/TheCamilovisk/RossmannSalesForecasting/blob/9b67db7c1485dee551f0799ae85ddac1a70d502d/03.2%20-%20XGBoost_multi_store_model.ipynb): XGBoost Multi-Store Model
 
 ## Acknowledgements
 
